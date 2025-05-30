@@ -1,6 +1,8 @@
-# Centauri AI Takehome – Todo Generator App - David Ho
+# AI Todo List Generator App - David Ho
 
-This is a full-stack AI-enhanced Todo app built for the Centauri AI take-home project. It allows users to add, complete, and delete todos, as well as generate new ones using OpenAI's GPT model, streamed in real-time.
+This is a full-stack AI-enhanced Todo app. It allows users to add, complete, and delete todos, as well as generate new ones using OpenAI's GPT model, streamed to user in real-time.
+
+![AITodoList](./AITodoList.png)
 
 ---
 
@@ -72,7 +74,7 @@ When you click “Generate Todo”, the app will send your existing todos to Ope
 
 ---
 
-## 🗂 Folder Structure
+## Folder Structure
 
 ```
 backend/
@@ -94,6 +96,6 @@ frontend/
 
 ---
 
-## 🧪 Testing
+## Testing
 
 This version is designed for manual testing and demo functionality. All todos are stored in SQLite (\`todos.db\`) and regenerated on startup if missing.
