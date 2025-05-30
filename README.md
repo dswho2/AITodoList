@@ -1,4 +1,4 @@
-# AI Todo List Generator App - David Ho
+# AI Todo List Generator App
 
 This is a full-stack AI-enhanced Todo app. It allows users to add, complete, and delete todos, as well as generate new ones using OpenAI's GPT model, streamed to user in real-time.
 
